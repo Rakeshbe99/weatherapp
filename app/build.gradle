@@ -6,7 +6,7 @@ def lifecycleVersion = '1.1.1'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "cz.martykan.rakesh"
+        applicationId "com.rakesh.weatherexample"
         minSdkVersion 15
         //noinspection ExpiringTargetSdkVersion
         targetSdkVersion 27
